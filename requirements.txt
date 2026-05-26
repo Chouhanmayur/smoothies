@@ -1,3 +1,4 @@
 # requirements.ext
 snowflake-snowpark-python
 streamlit
+requests
